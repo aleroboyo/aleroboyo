@@ -4,7 +4,7 @@
 I'm currently learning Javascript ✨ <br>
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/nneamakaaleroboyoemmanuel/" target="__blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)<a> <a href="https://support.discord.com/hc/en-us/profiles/19878620735383" target="__blank">![Discord](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)<a> 
+<a href="https://www.linkedin.com/in/nneamakaaleroboyoemmanuel/" target="__blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)<a>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
