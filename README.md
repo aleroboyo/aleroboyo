@@ -1,6 +1,6 @@
-# Hey there! 🤍
+# HEY THERE! 🤍
 
-# About Me:
+
 I'm currently learning Javascript ✨ <br>
 
 ## 🌐 Socials:
