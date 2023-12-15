@@ -1,6 +1,7 @@
-# About Me 🤍 :
-I'm currently learning Javascript ✨ <br>
+# Hey there! 🤍
 
+# About Me:
+I'm currently learning Javascript ✨ <br>
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/nneamakaaleroboyoemmanuel/">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)<a>
