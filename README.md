@@ -1,10 +1,10 @@
-<h3>Hi there 🤍 !! I'm Alero Boyo</h3>
+<h2 align="center">Hi there 🤍 !! I'm Alero Boyo</h2>
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👩🏾‍💻 All of my projects are available at [https://github.com/aleroboyo/portfolio.git](https://github.com/aleroboyo/portfolio.git)
+- 👨‍💻 All of my projects are available at [https://aleroboyo.github.io/portfolio/](https://aleroboyo.github.io/portfolio/)
 
-- 📨 How to reach me **aleroboyo0@gmail.com**
+- 📫 How to reach me **aleroboyo0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
