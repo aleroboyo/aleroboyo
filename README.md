@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👩🏾‍💻 View my portfolio at [https://aleroboyo.github.io/portfolio/](https://aleroboyo.github.io/portfolio/)
+- 👩🏾‍💻 View my portfolio at: [https://aleroboyo.github.io/portfolio/](https://aleroboyo.github.io/portfolio/)
 
-- 📨 How to reach me **aleroboyo0@gmail.com**
+- 📨 Reach me at: **aleroboyo0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
