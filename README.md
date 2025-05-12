@@ -2,7 +2,7 @@
 
 - 👩🏾‍💻 All of my projects are available at [https://aleroboyo.github.io/portfolio/](https://aleroboyo.github.io/portfolio/)
 
-- 📨 How to reach me **aleroboyo0@gmail.com**
+- 📨 How to reach me aleroboyo0@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
