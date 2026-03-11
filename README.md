@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 🤍 !! I'm Alero Boyo</h1>
-- 👩🏾‍💻 All of my projects are available at [https://aleroboyo.github.io/portfolio/](https://aleroboyo.github.io/portfolio/)
+<h1>Hi there 🤍 !! I'm Alero Boyo</h1>
+- 👩🏾‍💻 All of my projects are available at https://aleroboyo.github.io/portfolio/](https://aleroboyo.github.io/portfolio/
 
 - 📨 How to reach me **aleroboyo0@gmail.com**
 
